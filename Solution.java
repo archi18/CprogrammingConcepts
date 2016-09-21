@@ -8,7 +8,7 @@ import java.util.regex.*;
 public class Solution {
 	public static void main(String[] args) {
 		 Scanner scan= new Scanner(System.in);
-	        
+	        System.out.println("Hi Jeevika");
 	        int t= scan.nextInt();
 	        String[] str= new String[t];
 	        for(int i=0; i<t; i++){
