@@ -6,8 +6,5 @@ int incrementCount(void){
 
 void valueOfGlobStatic(void){
 	printf("\n valueOfGlobStatic :: %d" , g_static);
-	printf("\n valueOfGlobStatic :: %d" , g_static);
-	printf("\n valueOfGlobStatic :: %d" , g_static);
-	printf("\n valueOfGlobStatic :: %d" , g_static);
 
 }
